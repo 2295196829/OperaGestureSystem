@@ -2,7 +2,4 @@
 
 ## LeapMotion SDK
 
-Unity-ProjectSettings-PackageManager
-Name UltraLeap
-URL <https://package.openupm.com>
-Scope(s) com.ultraleap
+<https://docs.ultraleap.com/xr-and-tabletop/xr/unity/getting-started/index.html>
