@@ -1,0 +1,6 @@
+Project Name: OperaGestureSystem1.1
+Unity Version: 2022.3.15 f1c1
+Archived Date: 2025-12-27 
+
+This project is archived.
+Library/Temp folders are intentionally removed.

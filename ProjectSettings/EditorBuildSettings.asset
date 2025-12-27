@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/0_HomePage.unity
+    guid: aded2beafcc4af5458bcb429e973896c
+  - enabled: 1
+    path: Assets/Scenes/1_PearGarden.unity
+    guid: 7c56febc9fd34324ebfe28f1904f3974
+  - enabled: 1
+    path: Assets/Scenes/2_Teach.unity
+    guid: fbed8b93555703841ac496ac8c816a8c
+  - enabled: 1
+    path: Assets/Scenes/3_Book.unity
+    guid: 482d37de265fc314c9909d33a82b4adf
+  - enabled: 1
+    path: Assets/Scenes/4_Perform.unity
+    guid: f7a7c07b9a66901468de5fde0c7520bb
+  - enabled: 1
+    path: Assets/Scenes/5_fengguan.unity
+    guid: 803c4208dc9495345874a8166cda7621
+  - enabled: 1
+    path: Assets/Scenes/6_nvmang.unity
+    guid: d66e149e0b675544f801f60e6a1a2ff9
+  m_configObjects: {}
