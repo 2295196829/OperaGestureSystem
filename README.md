@@ -7,7 +7,6 @@
 - Visual Studio 2022
 - Leap Motion Controller
 
-Leap Motion使用教程参考：[\[Chinese\] Unity - LeapMotion官方示例讲解](https://www.bilibili.com/video/BV1oT4y1N7hD/?spm_id_from=333.1387.favlist.content.click&vd_source=77ac6a737c79073a8a37fbd55b009883)
 ![Leap Motion Controller](https://www.ultraleap.com/assets/images/devices/lmc-device-1.png)
 
 ## 安装
@@ -24,5 +23,4 @@ Leap Motion使用教程参考：[\[Chinese\] Unity - LeapMotion官方示例讲�
 
 ### 主场景
 <img width="781" height="437" alt="image" src="https://github.com/user-attachments/assets/cfa30a99-04a0-42ca-bd48-e0fce8ed5a6e" />
-
 
